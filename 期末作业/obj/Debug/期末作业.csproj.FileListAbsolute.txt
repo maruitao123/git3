@@ -1,0 +1,52 @@
+C:\Users\Administrator\Documents\Visual Studio 2015\mypro\期末作业\期末作业\bin\Debug\期末作业.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\mypro\期末作业\期末作业\bin\Debug\期末作业.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\mypro\期末作业\期末作业\bin\Debug\期末作业.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\mypro\期末作业\期末作业\obj\Debug\期末作业.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\mypro\期末作业\期末作业\obj\Debug\期末作业.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\mypro\期末作业\期末作业\obj\Debug\期末作业.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\mypro\期末作业\期末作业\obj\Debug\期末作业.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2015\mypro\期末作业\期末作业\obj\Debug\期末作业.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\mypro\期末作业\期末作业\obj\Debug\期末作业.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\mypro\期末作业\期末作业\obj\Debug\期末作业.Form2.resources
+C:\Users\Administrator\Desktop\期末作业\期末作业\bin\Debug\期末作业.exe.config
+C:\Users\Administrator\Desktop\期末作业\期末作业\obj\Debug\期末作业.exe
+C:\Users\Administrator\Desktop\期末作业\期末作业\obj\Debug\期末作业.pdb
+C:\Users\Administrator\Desktop\期末作业\期末作业\bin\Debug\期末作业.exe
+C:\Users\Administrator\Desktop\期末作业\期末作业\bin\Debug\期末作业.pdb
+C:\Users\Administrator\Desktop\期末作业\期末作业\obj\Debug\期末作业.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\期末作业\期末作业\obj\Debug\期末作业.Form1.resources
+C:\Users\Administrator\Desktop\期末作业\期末作业\obj\Debug\期末作业.Form2.resources
+C:\Users\Administrator\Desktop\期末作业\期末作业\obj\Debug\期末作业.Properties.Resources.resources
+C:\Users\Administrator\Desktop\期末作业\期末作业\obj\Debug\期末作业.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\期末作业\期末作业\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\期末作业\期末作业\bin\Debug\MySQLDriverCS.dll
+C:\Users\Administrator\Desktop\期末作业\期末作业\bin\Debug\Renci.SshNet.dll
+C:\Users\maruitao\Desktop\期末作业\期末作业\bin\Debug\期末作业.exe.config
+C:\Users\maruitao\Desktop\期末作业\期末作业\obj\Debug\期末作业.exe
+C:\Users\maruitao\Desktop\期末作业\期末作业\obj\Debug\期末作业.pdb
+C:\Users\maruitao\Desktop\期末作业\期末作业\bin\Debug\期末作业.exe
+C:\Users\maruitao\Desktop\期末作业\期末作业\bin\Debug\期末作业.pdb
+C:\Users\maruitao\Desktop\期末作业\期末作业\obj\Debug\期末作业.csprojResolveAssemblyReference.cache
+C:\Users\maruitao\Desktop\期末作业\期末作业\obj\Debug\期末作业.Form1.resources
+C:\Users\maruitao\Desktop\期末作业\期末作业\obj\Debug\期末作业.Form2.resources
+C:\Users\maruitao\Desktop\期末作业\期末作业\obj\Debug\期末作业.Properties.Resources.resources
+C:\Users\maruitao\Desktop\期末作业\期末作业\obj\Debug\期末作业.csproj.GenerateResource.Cache
+C:\Users\maruitao\Desktop\期末作业\期末作业\bin\Debug\BLL.exe
+C:\Users\maruitao\Desktop\期末作业\期末作业\bin\Debug\Newtonsoft.Json.dll
+C:\Users\maruitao\Desktop\期末作业\期末作业\bin\Debug\BLL.pdb
+C:\Users\maruitao\Desktop\期末作业\期末作业\bin\Debug\DAL.exe
+C:\Users\maruitao\Desktop\期末作业\期末作业\bin\Debug\DAL.pdb
+C:\Users\maruitao\Desktop\期末作业\期末作业\bin\Debug\Model.exe
+C:\Users\maruitao\Desktop\期末作业\期末作业\bin\Debug\Model.pdb
+C:\Users\maruitao\Desktop\期末作业\期末作业\obj\Debug\期末作业.Form3.resources
+C:\Users\maruitao\Desktop\期末作业\期末作业\obj\Debug\期末作业.Form4.resources
+C:\Users\Administrator\Desktop\期末作业\期末作业\bin\Debug\BLL.exe
+C:\Users\Administrator\Desktop\期末作业\期末作业\bin\Debug\DAL.exe
+C:\Users\Administrator\Desktop\期末作业\期末作业\bin\Debug\Model.exe
+C:\Users\Administrator\Desktop\期末作业\期末作业\bin\Debug\BLL.pdb
+C:\Users\Administrator\Desktop\期末作业\期末作业\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\期末作业\期末作业\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\期末作业\期末作业\obj\Debug\期末作业.Form3.resources
+C:\Users\Administrator\Desktop\期末作业\期末作业\obj\Debug\期末作业.Form4.resources
+C:\Users\Administrator\Desktop\期末作业\期末作业\bin\Debug\WindowsFormsApplication26.exe
+C:\Users\Administrator\Desktop\期末作业\期末作业\bin\Debug\WindowsFormsApplication26.pdb

@@ -1,0 +1,27 @@
+c:\users\maruitao\documents\visual studio 2015\Projects\DAL\DAL\bin\Debug\DAL.exe.config
+c:\users\maruitao\documents\visual studio 2015\Projects\DAL\DAL\bin\Debug\DAL.exe
+c:\users\maruitao\documents\visual studio 2015\Projects\DAL\DAL\bin\Debug\DAL.pdb
+c:\users\maruitao\documents\visual studio 2015\Projects\DAL\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+c:\users\maruitao\documents\visual studio 2015\Projects\DAL\DAL\obj\Debug\DAL.exe
+c:\users\maruitao\documents\visual studio 2015\Projects\DAL\DAL\obj\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\DAL\DAL\bin\Debug\DAL.exe.config
+C:\Users\Administrator\Desktop\DAL\DAL\obj\Debug\DAL.exe
+C:\Users\Administrator\Desktop\DAL\DAL\obj\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\DAL\DAL\bin\Debug\DAL.exe
+C:\Users\Administrator\Desktop\DAL\DAL\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\DAL\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\DAL\DAL\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\DAL\DAL\bin\Debug\MySQLDriverCS.dll
+C:\Users\Administrator\Desktop\DAL\DAL\bin\Debug\Renci.SshNet.dll
+C:\Users\maruitao\Desktop\DAL\DAL\bin\Debug\DAL.exe.config
+C:\Users\maruitao\Desktop\DAL\DAL\obj\Debug\DAL.exe
+C:\Users\maruitao\Desktop\DAL\DAL\obj\Debug\DAL.pdb
+C:\Users\maruitao\Desktop\DAL\DAL\bin\Debug\DAL.exe
+C:\Users\maruitao\Desktop\DAL\DAL\bin\Debug\DAL.pdb
+C:\Users\maruitao\Desktop\DAL\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\maruitao\Desktop\期末作业\DAL\DAL\bin\Debug\DAL.exe.config
+C:\Users\maruitao\Desktop\期末作业\DAL\DAL\bin\Debug\DAL.exe
+C:\Users\maruitao\Desktop\期末作业\DAL\DAL\bin\Debug\DAL.pdb
+C:\Users\maruitao\Desktop\期末作业\DAL\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\maruitao\Desktop\期末作业\DAL\DAL\obj\Debug\DAL.exe
+C:\Users\maruitao\Desktop\期末作业\DAL\DAL\obj\Debug\DAL.pdb

@@ -1,0 +1,11 @@
+C:\Users\maruitao\Desktop\期末作业\Model\bin\Debug\Model.exe.config
+C:\Users\maruitao\Desktop\期末作业\Model\bin\Debug\Model.exe
+C:\Users\maruitao\Desktop\期末作业\Model\bin\Debug\Model.pdb
+C:\Users\maruitao\Desktop\期末作业\Model\obj\Debug\Model.Properties.Resources.resources
+C:\Users\maruitao\Desktop\期末作业\Model\obj\Debug\Model.csproj.GenerateResource.Cache
+C:\Users\maruitao\Desktop\期末作业\Model\obj\Debug\Model.exe
+C:\Users\maruitao\Desktop\期末作业\Model\obj\Debug\Model.pdb
+C:\Users\maruitao\Desktop\期末作业\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\maruitao\Desktop\期末作业\Model\bin\Debug\EntityFramework.dll
+C:\Users\maruitao\Desktop\期末作业\Model\bin\Debug\EntityFramework.xml
+C:\Users\maruitao\Desktop\期末作业\Model\bin\Debug\zh-Hans\EntityFramework.resources.dll
